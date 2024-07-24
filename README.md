@@ -56,7 +56,7 @@ you can do this by clicking on the green coloured fork button
 - Clone your forked repo
 
 ```
-$ git clone https://github.com/<your-username>/grabtern-frontend.git
+$ git clone https://github.com/shirwinprince/grabtern-frontend.git
 ```
 
 - Go to directory
